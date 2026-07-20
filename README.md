@@ -70,7 +70,9 @@ You can change the reward to cash or keep it as markedbills. You can change rewa
 ### Chopping Certificate only grants markedbills as rewards, whereas chopped parts can grant cash or markedbills whichever you choose.
 
 
-
+## Issues:
+If you run into any issues, please open an issue by going here and explain in detail as much as you can. 
+I can't promise any assitance, but I will do my best. This is my first custom script, so please bare with me.
 
 
 
