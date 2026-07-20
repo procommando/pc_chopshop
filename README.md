@@ -6,8 +6,11 @@ It is open source, so have fun with it :)
 
 ## Download and Ensure:
 Click on green colour "Code" button, and then click on download as a zip.
+
 Extract the folder, rename the file to "pc_chopshop", and copy/paste the folder into your resources folder.
+
 Make sure to ensure the folder in your txdata server config file, by inputting "ensure pc_chopshop" without quotations. 
+
 Path: Your Server -> txData -> QBCore_### -> open 'server.cfg' file
 
 
