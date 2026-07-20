@@ -37,13 +37,16 @@ Path: Your Server -> txData -> QBCore_### -> open 'server.cfg' file
 
 ## Images:
 ### QB Images path -> resources -> [qb] -> qb-inventory -> html -> open 'images' folder.
+
 Copy and paste the 8 images, into your images folder.
 
 ## How to find the item:
 This is where you need to know what you're doing with looting items in your server.
+
 You can add the item in qb-trashsearch to find easy and/or medium contracts, put in hard contracts in your house robberies, etc. 
 
 You decide where the items should be found, as one of the choice. 
+
 Note: When adding the items, make sure it's the item name such as "chop_contract_easy" - It must match exactly how it is in items lua otherwise you will run into issues.
 
 
